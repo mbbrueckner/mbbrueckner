@@ -1,11 +1,11 @@
-# 💫 About Me:
+# About Me:
 Hey, I'm Mika 👋
 
 CS student · builder · runner · Jena, Germany
 
 I'm finishing my B.Sc. in Computer Science at **Friedrich Schiller University Jena**. My interests live at the intersection of machine learning/AI, scientific computing, and systems programming — I like understanding things from the ground up.
 
-**🔨 What I've been working on recently:**
+## 🔨 What I've been working on recently:
 
 **Personal Projects:**
 - 🧠 **[axon](https://github.com/mbbrueckner/axon.git)** — A neural network library from scratch in C++
