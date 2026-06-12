@@ -1,7 +1,7 @@
 # About Me:
 Hey, I'm Mika 👋
 
-CS student · builder · runner · Jena, Germany
+CS student · builder · runner
 
 I'm finishing my B.Sc. in Computer Science at **Friedrich Schiller University Jena**. My interests live at the intersection of machine learning/AI, scientific computing, and systems programming — I like understanding things from the ground up.
 
