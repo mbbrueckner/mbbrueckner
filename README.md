@@ -13,7 +13,8 @@ I'm finishing my B.Sc. in Computer Science at **Friedrich Schiller University Je
 - 🚲 **[weather-router](https://github.com/mbbrueckner/weather_router.git)** — A Python library that analyzes GPS routes against weather forecasts
 
 **University Projects:**
-- 🌊 **[Tsunami Lab](https://github.com/ykoellmann/tsunami_lab.git)** — C++ shallow-water wave simulation with NetCDF/ParaView visualization
+- 🌊 **[Riptide(Tsunami Lab)](https://github.com/SquadCommit/Riptide.git)** — C++ shallow-water wave simulation with NetCDF/ParaView visualization
+- 👨‍💻 **[EVAL](https://github.com/SquadCommit/Eval.git)** – An Automatic Grading Tool for Programming Assignments.
 - 💡 **[raytracer-omp](https://github.com/mbbrueckner/raytracer-omp.git)** — A simple OpenMP-parallelized ray tracer in C++
 
 ## 🌐 Socials:
