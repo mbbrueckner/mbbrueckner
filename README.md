@@ -10,7 +10,7 @@ I'm finishing my B.Sc. in Computer Science at **Friedrich Schiller University Je
 **Personal Projects:**
 - 🧠 **[axon](https://github.com/mbbrueckner/axon.git)** — A neural network library from scratch in C++
 - 🚂 **[deutsche-bahn](https://github.com/mbbrueckner/deutsche-bahn.git)** — A Python library wrapping open DB APIs [![PyPI](https://img.shields.io/pypi/v/deutsche-bahn-py?style=flat&logo=pypi&logoColor=white&color=3670A0)](https://pypi.org/project/deutsche-bahn-py/)
-- 🚲 **[weather-router](https://github.com/mbbrueckner/weather_router.git)** — A Python library that analyzes GPS routes against weather forecasts
+- 🚲 **[aeolus](https://github.com/mbbrueckner/aeolus.git)** — A Python library that analyzes GPS routes against weather forecasts
 
 **University Projects:**
 - 🌊 **[Riptide(Tsunami Lab)](https://github.com/SquadCommit/Riptide.git)** — C++ shallow-water wave simulation with NetCDF/ParaView visualization
